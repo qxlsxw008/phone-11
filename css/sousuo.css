@@ -1,0 +1,685 @@
+header{
+	width: 100%;
+	height: 2.15rem;
+	background-color: #2a2b3f;
+	position: fixed;
+	top: 0;
+	left: 0;
+	padding: 0.24rem;
+	box-shadow: 0 0.2rem 0.3rem #cdcdcd;
+}
+main{
+	position: relative;
+	left: 0;
+	right: 0;
+	top: 2.15rem;
+	bottom: 1rem;
+	/* bottom:  1rem; */
+	background-color: #242537;
+	overflow-y: scroll;
+	padding: 0.24rem
+}
+.header-shang{
+	width: 7.02rem;
+	height: 0.6rem;
+	/* background-color: red; */
+	margin-top: 0.1rem;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	
+}
+.shang1{
+	width: 0.19rem;
+	height: .32rem;
+	/* background-color: white; */
+}
+.shang2{
+	width: 1.6rem;
+	height:0.6rem;
+	/* background-color: white; */
+	margin: 0 auto;
+}
+.header-xia{
+	width: 7.0197rem;
+	height: 0.55rem;
+	background-color: #27283b;
+	border-radius: 0.5rem;
+	border: 0.03rem solid #464757;
+	margin-top: 0.33rem;
+	
+}
+.xia1{
+	width: 0.11rem;
+	height: 0.11rem;
+	background-color: #513637;
+	border-radius: 0.045rem;
+	margin-left: 0.13rem;
+	margin-top: 0.2rem;
+	overflow: hidden;
+	/* position: absolute;
+	left: 0.13rem;
+	top: 0.2rem; */
+	float: left;
+
+
+}
+.xia1-1{
+	width: 0.05rem;
+	height: 0.05rem;
+	background-color: #fa6e27;
+	border-radius: 0.03rem;
+	margin-left: 0.03rem;
+	margin-top: 0.03rem;
+	float: left;
+}
+.xia1-2{
+	background-color: #f82767;
+}
+.xia2{
+	margin-left: 0.03rem;
+	float: left;
+	background-color: #452841;
+	margin-top: 0.2rem;
+}
+.xia3{
+	font-size: 0.18rem;
+	font-family: '苹方';
+	font-weight: bold;
+	color: #777880;
+	float: left;
+	margin-top: 0.07rem;
+	margin-left: 0.11rem
+}
+.xia4{
+	width: 0.38rem;
+	height: 0.38rem;
+	border-radius: 0.19rem;
+	background-color: #2c2e3e;
+	float: right;
+	border: 0.02rem solid #484c66;
+	margin-right: 0.07rem;
+	margin-top: 0.05rem;
+}
+.xia4-1{
+	width: 0.18rem;
+	height: 0.25rem;
+	background-color: red;
+	margin-left: 0.08rem;
+	margin-top: 0.04rem
+}
+.main-span1{
+	font-size: 0.5rem;
+	font-family: 'San Francisco Display';
+	font-weight: bold;
+	color: #1f2030;
+	position: absolute;
+	left: 2.82rem;
+	top: 0.49rem
+}
+.main-span2{
+	width: 1.53rem;
+	height: 0.29rem;
+	background-color: blue;
+	font-size: 0.3rem;
+	font-family: '苹方';
+	font-weight: 900;
+	text-align: center;
+	line-height: 0.29rem;
+	position: absolute;
+	top: 0.45rem;
+	left: 3.01rem;
+	background: linear-gradient(to left,#ff1e7b,#f43154);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.main-span3{
+	display: block;
+	font-size: 0.16rem;
+	font-family: 'San Francisco Display';
+	font-weight: bolder;
+	color: #f2344f;
+	position: absolute;
+	top: 0.79rem;
+	left: 3.02rem;
+	z-index: 999;
+
+}
+.main1{
+	width: 7.02rem;
+	height: 2.33rem;
+	/* background-color: pink; */
+	margin-top: 1.29rem;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-content: space-between
+}
+.main1-1{
+	width: 3.41rem;
+	height: 1.08rem;
+	background-color:#2a2b3f;
+	border-radius: 0.08rem;
+	box-shadow: 0 0.05rem 0.15rem #222333 ;
+	position: relative
+
+}
+.main-1-1{
+	width: 0.33rem;
+	height: 0.29rem;
+	background-color: red;
+	margin-top: 0.36rem;
+	margin-left: 0.56rem;
+	float: left;
+}
+.main-1-11{
+	width: 0.3rem;
+	height: 0.3rem;
+}
+.main-1-12{
+	width: 0.23rem;
+	height: 0.29rem;
+}
+.main-1-13{
+	width: 0.24rem;
+	height: 0.27rem;
+}
+.main-1-2{
+	width: 0.01rem;
+	height: 0.37rem;
+	background-color: #222232;
+	float: left;
+	margin-left: 0.14rem;
+	margin-top: 0.32rem;
+}
+.main-1-3{
+	font-size: 0.24rem;
+	font-family: '苹方';
+	font-weight: bold;
+	color: #f82767;
+	float: left;
+	margin-top: 0.2rem;
+	margin-left: 0.21rem;
+}
+.main-1-4{
+	font-size: 0.18rem;
+	font-family: 'San Francisco Display';
+	font-weight: normal;
+	color: #f0f0f1;
+	float: left;
+	margin-top: -0.05rem;
+	margin-left: 0.21rem;
+}
+
+.main-1-5{
+	width: 0.22rem;
+	height: 0.22rem;
+	background-color: red;
+	position: absolute;
+	top: 0;
+	right: 0;
+	/* box-shadow: -0.1rem 0.1rem 0rem 0.15rem #cdcdcd ; */
+}
+.main-span11{
+	top: 4.4rem;
+	left: ;
+}
+.main-span22{
+	top: 4.33rem;
+}
+.main-span222{
+	top: 4.4rem;
+}
+.main-span33{
+	top: 4.75rem;
+	left: 3.08rem;
+}
+.main2{
+	width: 0.75rem;
+	height: 0.25rem;
+	float: right;
+	background-color: #27283b;
+	border-radius: 0.5rem;
+	margin-top: 0.45rem;
+	border: 0.03rem solid #2b2c3d;
+	box-shadow: 0 0.05rem 0.15rem #222333 ;
+}
+.main2-1{
+	width: 0.06rem;
+	height: 0.06rem;
+	background-color: #f82767;
+	border-radius: 0.03rem;
+	margin-left: 0.19rem;
+	margin-top: 0.07rem;
+	float: left;
+}
+.main2-2{
+	float: left;
+	margin-left: 0.07rem;
+	background-color: #a42755;
+}
+.main2-3{
+	float: left;
+	margin-left: 0.07rem;
+	background-color: #512844;
+}
+.main3{
+	width: 1.3113rem;
+	height: 0.5197rem;
+	background-color: #fa662e;
+	border-radius: 0.5rem;
+	margin-top: 1.63rem;
+	font-size: 0.24rem;
+	font-family: '苹方';
+	font-weight: 900;
+	color: #fff;
+	text-align: center;
+	line-height: 0.5197rem;
+	float: left;
+	background: linear-gradient(to left,#fa672d,#f82d61)
+}
+.main3-1{
+	margin-left: 0.23rem;
+	background: linear-gradient(to left,#fa672d,#f82d61)
+}
+.main3-2{
+	margin-top: 0.37rem;
+	background: linear-gradient(to left,#fa672d,#f82d61)
+}
+.main3-3{
+	margin-left: 0.23rem;
+	background: linear-gradient(to left,#fa672d,#f82d61)
+}
+.main-span12{
+	margin-top: 2.87rem;
+}
+.main-span23{
+	margin-top: 2.9rem;
+}
+.main-span34{
+	margin-top: 2.8rem;
+	margin-left: -0.25rem
+}
+.main4{
+	width: 7.02rem;
+	height: 1.58rem;
+	background-color: #fff;
+	border-radius: 0.04rem;
+	margin-top: 4.4rem;
+	position: relative
+}
+.main4-1{
+	width: 0.94rem;
+	height: 0.94rem;
+	background-color: pink;
+	position: absolute;
+	top: 0.21rem;
+	left: 0.22rem;
+	border-radius: 0.04rem;
+	border: 0.02rem solid #fff;
+	box-shadow: 0rem 0rem 0.2rem #cbcbcb;
+}
+.main5{
+	font-size: 0.32rem;
+	font-family: 'San Francisco Display';
+	font-weight: bold;
+	color: #f82767;
+	margin-top: 0.09rem;
+	line-height: 0.5197rem;
+	float: left;
+	margin-left: 1.40rem;
+}
+.main6{
+	width: 0.67rem;
+	height: 0.14rem;
+	/* background-color: black; */
+	position: absolute;
+	top:0.53rem ;
+	left: 1.4rem;
+}
+.main61{
+	position: absolute;
+	top:0.53rem ;
+	left: 2.47rem;
+	width: 0.51rem;
+	height: 0.13rem;
+}
+.main62{
+	width: 1rem;
+	height: 0.13rem;
+	position: absolute;
+	left: 3.54rem;
+	top:0.53rem ;
+	
+	
+}
+.main6-31{
+	display: block;
+	float: right;
+	margin-left: 0.13rem;
+	
+}
+.main6-32{
+	
+	position: absolute;
+	right: -0.1rem;
+	top:0rem ;
+}
+.main6-1{
+	width: 0.1rem;
+	height: 0.1rem;
+	background-color: #fed4e1;
+	border-radius: 0.05rem;
+	position: absolute;
+	left:0;
+	top: 0.02rem;
+}
+
+.main6-2{
+	width: 0.04rem;
+	height: 0.04rem;
+	background-color: #f82767;
+	border-radius: 0.02rem;
+	position: absolute;
+	left:0.03rem;
+	top: 0.05rem;
+}
+.main6-3{
+	font-size: 0.18rem;
+	font-family: 'San Francisco Display';
+	font-weight: bold;
+	color: #a3a3a3;
+	margin-left: 0.16rem;
+	line-height: 0.14rem;
+	float: left
+}
+.main7{
+	font-size: 0.22rem;
+	font-family: '苹方';
+	font-weight: bold;
+	color: #737373;
+	margin-left: 1.41rem;
+	margin-top: 0.13rem;
+	float: left
+}
+.main8{
+	font-size: 0.18rem;
+	font-family: '微软雅黑';
+	font-weight: bold;
+	color: #eeeeee;
+	margin-left: 1.41rem;
+	margin-top: -0.15rem;
+	float: left
+}
+.main9{
+	width: 0.76rem;
+	height: 0.12rem;
+	background-color: red;
+	position: absolute;
+	bottom:  0.19rem;
+	left: 0.33rem;
+}
+.main10{
+	width: 1.8rem;
+	height: 0.15rem;
+	/* background-color: red; */
+	position: absolute;
+	bottom:  0.19rem;
+	left: 1.4rem;
+}
+.main10-1{
+	width: 0.15rem;
+	height: 0.15rem;
+	background-color: pink;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.main10-2{
+	font-size: 0.18rem;
+	font-family: 'San Francisco Display';
+	font-weight: bold;
+	color: #cacaca;
+	line-height:0.15rem;
+	margin-left: 0.23rem;
+	float: left;
+
+}
+.main10-3{
+	font-size: 0.18rem;
+	font-family: 'San Francisco Display';
+	font-weight: bold;
+	color: #cacaca;
+	position: absolute;
+	left: 0.999rem;
+	top: -0.08rem;	
+}
+.main11{
+	width: 1.6rem;
+	height: 0.15rem;
+	position: absolute;
+	bottom:  0.18rem;
+	left: 2.98rem;
+}
+.main11-1{
+	width: 0.15rem;
+	height: 0.15rem;
+	background-color: pink;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+.main11-2{
+	font-size: 0.18rem;
+	font-family: 'San Francisco Display';
+	font-weight: bold;
+	color: #cacaca;
+	margin-top: -0.085rem;
+	margin-left: 0.23rem;
+	float: left;
+}
+.main11-3{
+	font-size: 0.18rem;
+	font-family: 'San Francisco Display';
+	font-weight: bold;
+	color: #cacaca;
+	position: absolute;
+	left: 1.4rem;
+	top: -0.08rem;
+}
+.main12{
+	width: 0.65rem;
+	height: 0.39rem;
+	background-color: red;
+	position: absolute;
+	right: 0.23rem;
+	bottom: 1.23rem
+}
+.main4a{
+	position: absolute;
+	left: 0.24rem;
+	top: 5.83rem;
+}
+.main4b{
+	position: absolute;
+	left: 0.24rem;
+	top: 7.69rem;
+}
+.main-span13{
+	margin-top: 9.82rem;
+	margin-left: -0.65rem;
+}
+.main-span24{
+	margin-top: 9.85rem;
+}
+.main-span35{
+	margin-top:9.75rem;
+	margin-left: -0.02rem;
+}
+.main13-aa{
+	width: 3.29rem;
+	height: 3.83rem;
+	position: absolute;
+	top: 15.5rem;
+	left: 0.24rem;
+}
+.main13-bb{
+	width: 3.29rem;
+	height: 3.83rem;
+	position: absolute;
+	top: 15.5rem;
+	right: 0.24rem;
+}
+.main13-1{
+	width: 3.29rem;
+	height: 3.83rem;
+	background-color: pink;
+	box-shadow: 0 0.15rem 0.3rem #222333
+}
+.main13-2{
+	width: 2.42rem;
+	height: 2.21rem;
+	background-color: #7c294f;
+	position: absolute;
+	left: 0.44rem;
+	bottom: 1.81rem;
+	border-radius: 0.04rem
+}
+.main13-3{
+	width: 2.55rem;
+	height: 2.21rem;
+	background-color: #c85237;
+	position: absolute;
+	left: 0.37rem;
+	bottom: 1.87rem;
+	border-radius: 0.04rem;
+	z-index: 777
+}
+.main13-4{
+	width: 2.8rem;
+	height: 2.21rem;
+	background-color: #c85237;
+	position: absolute;
+	left: 0.25rem;
+	bottom: 1.95rem;
+	border-radius: 0.04rem;
+	z-index: 888
+}
+.main13-5{
+	width: 0.85rem;
+	height: 0.44rem;
+	background-color: #c9245b;
+	border: .03rem solid #fa6693;
+	/* box-shadow: 0 0.05rem 0.3rem #222335; */
+	position: absolute;
+	left: 1.23rem;
+	bottom: 2.89rem;
+	z-index: 999;
+	border-radius: 0.5rem
+}
+.main13-5-1{
+	width: 0.16rem;
+	height: 0.18rem;
+	background-color: red;
+	margin: 0 auto;
+	margin-top: 0.1rem
+}
+.main13-6{
+	font-size: 0.26rem;
+	font-family: 'San Francisco Display';
+	font-weight: bolder;
+	color: #cfcfd2;
+	position: absolute;
+	left: 0.28rem;
+	bottom: 1.39rem;
+}
+.main13-7{
+	font-size: 0.18rem;
+	font-family: '苹方';
+	font-weight: normal;
+	color: #70707a;
+	position: absolute;
+	left: 0.28rem;
+	bottom: 1.05rem;
+}
+.main13-8{
+	width: 3.04rem;
+	height: 0.02rem;
+	background-color: red;
+	position: absolute;
+	left: 0.12rem;
+	bottom: 0.79rem;
+}
+.main13-9{
+	font-size: 0.18rem;
+	font-family: 'San Francisco Display';
+	font-weight: bolder;
+	color: #da2860;
+	position: absolute;
+	left: 0.28rem;
+	bottom: 0.8rem;
+}
+.main13-20{
+	width: 0.57rem;
+	height: 0.15rem;
+	background-color: red;
+	position: absolute;
+	left: 2.47rem;
+	bottom: 0.85rem;
+}
+.maim13-21{
+	width: 0.48rem;
+	height: 0.48rem;
+	background-color: #532a47;
+	border-radius: 0.25rem;
+	position: absolute;
+	left:0.28rem;
+	bottom: 0.14rem;
+}
+.maim13-22{
+	width: 0.4rem;
+	height: 0.4rem;
+	background-color: #922852;
+	border-radius: 0.25rem;
+	position: absolute;
+	left:0.32rem;
+	bottom: 0.18rem;
+	z-index: 888
+}
+.main13-23{
+	width: 0.3rem;
+	height: 0.3rem;
+	background-color: #fff;
+	border-radius: 0.25rem;
+	position: absolute;
+	left:0.37rem;
+	bottom: 0.23rem;
+	z-index: 999;
+	/* border: 0.04rem solid #fff ; */
+}
+.main13-24{
+	font-size: 0.18rem;
+	font-family: 'San Francisco Display';
+	font-weight: bold;
+	color: #ababb0;
+	position: absolute;
+	left: 0.9rem;
+	top: 3.2rem;
+}
+.main13-25{
+	font-size: 0.14rem;
+	font-family: '苹方';
+	font-weight: bolder;
+	color: #696974;
+	position: absolute;
+	left: 0.9rem;
+	bottom: 0.05rem;
+}
+.main14{
+	width: 0.31rem;
+	height: .07rem;
+	background-color: red;
+	margin: 0 auto;
+	margin-top: 9.9rem
+}

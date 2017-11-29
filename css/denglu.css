@@ -1,0 +1,188 @@
+
+.main2{
+	width: 1.11rem;
+	height: 1.11rem;
+	background-color: #fff;
+	border-radius: 0.6rem;
+	position: absolute;
+	left:3.22rem ;
+	top:6.13rem ;
+	box-shadow: 0rem 0.1rem 0.2rem #eaeaea;
+	z-index: 999
+}
+.main2-1{
+	width: 0.44rem;
+	height: 0.43rem;
+	background-color: red;
+	margin: 0.34rem 0.335rem;
+}
+
+.main3{
+	font-size: 0.22rem;
+	font-family: '苹方';
+	font-weight: bold;
+	color: black;
+	position: absolute;
+	right: 0.24rem;
+	top: 0.77rem;
+	color: #fff;
+}
+.main4{
+	width: 0.22rem;
+	height: 0.09rem;
+	background-color: #f82767;
+	position: absolute;
+	left: 3.58rem;
+	top: 7.62rem;
+	border-radius: 0.5rem;
+}
+.main5{
+	width: 0.09rem;
+	height: 0.09rem;
+	background-color: red;
+	top: 7.62rem;
+	position: absolute;
+	right:3.55rem;
+	border-radius: 0.045rem;
+}
+.main6{
+	font-size: 0.32rem;
+	font-family: 'San Francisco Display';
+	font-weight: bold;
+	color: #f82767;
+	position: absolute;
+	left: 2.92rem;
+	top: 8.09rem;
+}
+.main7{
+	font-size: 0.22rem;
+	font-family: '苹方';
+	font-weight: bold;
+	color: black;
+	position: absolute;
+	right: 3.3rem;
+	top: 11.79rem;
+	color: #828487;
+}
+.main7:hover{
+	cursor: pointer;
+	color: #fff;
+}
+.main8{
+	font-size: 0.18rem;
+	font-family: 'San Francisco Display';
+	font-weight: normal;
+	color: #828487;
+	position: absolute;
+	right: 2.75rem;
+	top: 12.1rem;
+}
+.main9{
+	width: 0.4656rem;
+	height: 0.4656rem;
+	background-color: #f82767;
+	border-radius: 0.3rem;
+	position: absolute;
+	left: 2.9rem;
+	top: 9.51rem;
+	box-shadow: 0 0.1rem 0.3rem #f82767;
+}
+.main9-1{
+	width: 0.21rem;
+	height: 0.22rem;
+	background-color: red;
+	margin: 0.12rem 0.13rem;
+}
+.main10{
+	width: 0.4656rem;
+	height: 0.4656rem;
+	background-color: #fa6e27;
+	border-radius: 0.3rem;
+	position: absolute;
+	right: 2.9rem;
+	top: 9.51rem;
+	box-shadow: 0 0.1rem 0.3rem #fa6e27;
+}
+.main9-2{
+	width: 0.32rem;
+	height: 0.26rem;
+	background-color: red;
+	margin: 0.1rem 0.08rem;
+}
+.main11{
+	
+	position: absolute;
+	left: 2.55rem;
+	top: 8.81rem;
+	
+	font-size: 0.22rem;
+	font-family: '苹方';
+	font-weight: bold;
+	color: #cacaca;
+}
+.main15{
+	border: none;
+}
+.main12{
+	width: 0.08rem;
+	height: 0.08rem;
+	background-color: #f82767;
+	border-radius: 0.04rem;
+	position: absolute;
+	left: 1.21rem;
+	top: 9rem;
+	z-index: 999
+}
+.main13{
+	width: 0.16rem;
+	height: 0.16rem;
+	background-color: #ffd2e7;
+	border-radius: 0.08rem;
+	position: absolute;
+	left: 1.17rem;
+	top: 8.95rem;
+}
+.main4-1{
+	left: 3.71rem;
+}
+.main5-1{
+	left: 3.58rem;
+}
+.main14{
+	position: absolute;
+	left: 2.46rem;
+	top: 10.22rem;
+	width: 2.85rem;
+	height: 0.8rem;
+	border-radius: 0.5rem;
+	background-color: #36374b;
+	border: none;
+	font-size: 0.22rem;
+	font-family: '苹方';
+	font-weight: bold;
+	color: #868790;
+}
+.main16{
+	width: 5.29rem;
+	height: 0.02rem;
+	background-color: #e5e5e5;
+	position: absolute;
+	left: 1.11rem;
+	top: 9.3rem;
+}
+.main16-1{
+	width: 0.02rem;
+	height: 0.02rem;
+	background-color: #22252c;
+	position: absolute;
+	left:0rem;
+	top: 0rem;
+}
+.main16-2{
+	width: 0.02rem;
+	height: 0.02rem;
+	background-color: #22252c;
+	position: absolute;
+	right:0rem;
+	top: 0rem;
+}
